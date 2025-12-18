@@ -1,0 +1,104 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "Material.meta": {
+      "time": 1765963195275.5696
+    },
+    "Material": {
+      "time": 1765963504009.879,
+      "uuid": "84db09f0-785a-4d39-9748-b7449848b84f"
+    },
+    "Scripts.meta": {
+      "time": 1765962929763.2507
+    },
+    "Scripts": {
+      "time": 1766040414757.3696,
+      "uuid": "92b0db97-3bdf-47c8-b983-391e2646317d"
+    },
+    "Scenes.meta": {
+      "time": 1765963552310.979
+    },
+    "Scenes": {
+      "time": 1766040290840.989,
+      "uuid": "6a1813bf-2fbf-4e78-ae04-e84721a7a160"
+    },
+    "Prefabs.meta": {
+      "time": 1765963569545.6765
+    },
+    "Prefabs": {
+      "time": 1765963569542.264,
+      "uuid": "1ad93cee-b9d0-4a99-b9dc-fa5e9f6f6abd"
+    },
+    "Scripts/test_1.ts.meta": {
+      "time": 1765963032399.9006
+    },
+    "Scripts/test_1.ts": {
+      "time": 1765966816321.2598,
+      "uuid": "50e5a32a-a781-4023-b743-2bde7c96156c"
+    },
+    "Image.meta": {
+      "time": 1765963698406.209
+    },
+    "Image": {
+      "time": 1766041060394.3215,
+      "uuid": "12341193-2f01-4dbc-9f03-76315bfdd92f"
+    },
+    "Scenes/main.scene.meta": {
+      "time": 1765963649897.1406
+    },
+    "Scenes/main.scene": {
+      "time": 1766041068856.9001,
+      "uuid": "a4baabeb-9a8f-4b48-94e3-4092d1b7f4c2"
+    },
+    "Scripts/AudioManager.ts.meta": {
+      "time": 1766040414757.5425
+    },
+    "Scripts/AudioManager.ts": {
+      "time": 1766040414754.1812,
+      "uuid": "34d6c321-b759-443d-8b91-50b1f450e102"
+    },
+    "Audio.meta": {
+      "time": 1766040483617.8494
+    },
+    "Audio": {
+      "time": 1766040506355.164,
+      "uuid": "100348fc-c155-4ae6-84c9-245a566dfd0a"
+    },
+    "Audio/no-win.mp3.meta": {
+      "time": 1766040506351.026
+    },
+    "Audio/reel-stop.mp3.meta": {
+      "time": 1766040506351.1028
+    },
+    "Audio/win.mp3.meta": {
+      "time": 1766040506354.489
+    },
+    "Audio/reel-spin.wav.meta": {
+      "time": 1766040506355.4094
+    },
+    "Audio/no-win.mp3": {
+      "time": 1766040506347.8438,
+      "uuid": "97b0af19-156e-447e-9710-2cd97683a06f"
+    },
+    "Audio/reel-stop.mp3": {
+      "time": 1766040506348.012,
+      "uuid": "a410ecc2-08bf-4fcf-a82f-aa49698d5944"
+    },
+    "Audio/win.mp3": {
+      "time": 1766040506349.025,
+      "uuid": "0bf611e8-2082-4fa8-9ef3-dcc8e9d01e6b"
+    },
+    "Audio/reel-spin.wav": {
+      "time": 1766040506350.3977,
+      "uuid": "67957296-af1b-417a-b8c4-55f342ee4b30"
+    },
+    "Image/char.webp.meta": {
+      "time": 1765964068050.5806
+    },
+    "Image/char.webp": {
+      "time": 1765964064139.7,
+      "uuid": "d0c77862-3b77-458b-8d27-b90636f6cf25"
+    }
+  },
+  "missing": {}
+}

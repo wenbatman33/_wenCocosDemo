@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M3",
+        "version": "Darwin Kernel Version 25.2.0: Tue Nov 18 21:03:25 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T8122"
+    },
+    "sceneListMap": {
+        "a4baabeb-9a8f-4b48-94e3-4092d1b7f4c2": "/Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scenes/main.scene"
+    },
+    "deviceMd5": "b6dca6e238f1957e9d400e3506ccae5a"
+}

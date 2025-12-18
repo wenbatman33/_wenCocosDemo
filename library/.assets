@@ -1,0 +1,21 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "Image",
+            "Material",
+            "Prefabs",
+            "Scenes",
+            "Scripts",
+            "Scripts/test_1.ts",
+            "Scenes/main.scene",
+            "Scripts/AudioManager.ts",
+            "Audio",
+            "Audio/no-win.mp3",
+            "Audio/reel-stop.mp3",
+            "Audio/win.mp3",
+            "Audio/reel-spin.wav",
+            "Image/char.webp"
+        ]
+    }
+}
