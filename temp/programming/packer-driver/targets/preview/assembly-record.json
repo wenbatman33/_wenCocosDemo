@@ -190,6 +190,18 @@
       },
       "timestamp": 1765966819908
     },
+    "cef0ddbe34fdc13d221c1bec5b5c824394b6026e": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1766040414920
+    },
     "93ba276ea7b26ffcdc433fab14afc1ed6f05647b": {
       "imports": {
         "__unresolved_0": {
@@ -361,11 +373,35 @@
           "messages": []
         }
       },
-      "timestamp": 1766040236885
+      "timestamp": 1766041485588
+    },
+    "99457c8dad052607c8270c4f65daaf9e3fa6dc74": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1766041486531
+    },
+    "fb9ff4a1f4778abc785fa2def0206a638d486927": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1766041486543
     },
     "6a5019a719a9014c047e67aa1cf34453ab8392ce": {
       "imports": {},
-      "timestamp": 1766040237897
+      "timestamp": 1766041486548
     },
     "6d8fd2b0177941b032ddc0733af48a561fb60657": {
       "imports": {
@@ -414,21 +450,21 @@
         "__unresolved_6": {
           "resolved": {
             "type": "chunk",
-            "id": "cef0ddbe34fdc13d221c1bec5b5c824394b6026e"
+            "id": "99457c8dad052607c8270c4f65daaf9e3fa6dc74"
           },
           "messages": []
         },
         "__unresolved_7": {
           "resolved": {
             "type": "chunk",
-            "id": "00820f3cd1c9d86810db79f31fc307481bf74478"
+            "id": "b33ad8f2559a584dc250dd15f3461753140c9e27"
           },
           "messages": []
         }
       },
-      "timestamp": 1766040414884
+      "timestamp": 1766042049047
     },
-    "cef0ddbe34fdc13d221c1bec5b5c824394b6026e": {
+    "b33ad8f2559a584dc250dd15f3461753140c9e27": {
       "imports": {
         "cc": {
           "resolved": {
@@ -438,7 +474,7 @@
           "messages": []
         }
       },
-      "timestamp": 1766040414920
+      "timestamp": 1766042049070
     }
   },
   "entries": {
@@ -450,7 +486,7 @@
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": "33b14116158fcb1e038e9d77314001491583281e",
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "9672576e8f949619f21c4260dfbc1483286b6784",
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "571e28c784e84d34bbc59c4ef618cdb62e8c2e07",
-    "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/AudioManager.ts": "cef0ddbe34fdc13d221c1bec5b5c824394b6026e",
-    "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/test_1.ts": "00820f3cd1c9d86810db79f31fc307481bf74478"
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/AudioManager.ts": "99457c8dad052607c8270c4f65daaf9e3fa6dc74",
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_01.ts": "b33ad8f2559a584dc250dd15f3461753140c9e27"
   }
 }

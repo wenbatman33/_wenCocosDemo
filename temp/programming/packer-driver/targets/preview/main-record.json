@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6029.583708,
+      "mTimestamp": 4101.474042,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -514,7 +514,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 184060.079375,
+      "mTimestamp": 567602.933917,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -602,7 +602,7 @@
           }
         },
         {
-          "value": "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/AudioManager.ts",
+          "value": "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/AudioManager.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -611,12 +611,12 @@
             },
             "end": {
               "line": 10,
-              "column": 107
+              "column": 104
             }
           }
         },
         {
-          "value": "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/test_1.ts",
+          "value": "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_01.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -625,7 +625,7 @@
             },
             "end": {
               "line": 11,
-              "column": 101
+              "column": 99
             }
           }
         }
@@ -677,14 +677,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/AudioManager.ts"
+            "url": "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/AudioManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/test_1.ts"
+            "url": "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_01.ts"
           },
           "messages": []
         }
@@ -1253,7 +1253,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1766040230863,
+      "mTimestamp": 1766041481493,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1489,6 +1489,162 @@
             },
             "end": {
               "line": 8,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/AudioManager.ts": {
+      "mTimestamp": {
+        "mtime": 1766040414754.181,
+        "uuid": "34d6c321-b759-443d-8b91-50b1f450e102"
+      },
+      "chunkId": "99457c8dad052607c8270c4f65daaf9e3fa6dc74",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 7
+            },
+            "end": {
+              "line": 8,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_1.ts": {
+      "mTimestamp": {
+        "mtime": 1765966816321.2598,
+        "uuid": "50e5a32a-a781-4023-b743-2bde7c96156c"
+      },
+      "chunkId": "fb9ff4a1f4778abc785fa2def0206a638d486927",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_01.ts": {
+      "mTimestamp": {
+        "mtime": 1765966816321.2598,
+        "uuid": "50e5a32a-a781-4023-b743-2bde7c96156c"
+      },
+      "chunkId": "b33ad8f2559a584dc250dd15f3461753140c9e27",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
               "column": 11
             }
           }

@@ -5,7 +5,7 @@
     "versionCode": 1
   },
   "50e5a32a-a781-4023-b743-2bde7c96156c": {
-    "url": "db://assets/Scripts/test_1.ts",
+    "url": "db://assets/Scripts/test_01.ts",
     "value": {},
     "versionCode": 1
   },
@@ -34,11 +34,11 @@
     "value": {
       "depends": [
         "a4baabeb-9a8f-4b48-94e3-4092d1b7f4c2",
-        "d0c77862-3b77-458b-8d27-b90636f6cf25@f9941"
+        "062dc16a-828a-449c-aba2-01325296e236@f9941",
+        "e188f7ab-d92e-4290-8935-97682633dc26@f9941"
       ],
       "dependScripts": [
-        "34d6c321-b759-443d-8b91-50b1f450e102",
-        "50e5a32a-a781-4023-b743-2bde7c96156c"
+        "34d6c321-b759-443d-8b91-50b1f450e102"
       ]
     },
     "versionCode": 1
@@ -7865,6 +7865,69 @@
     "url": "db://assets/Audio/reel-spin.wav",
     "value": {
       "depends": []
+    },
+    "versionCode": 1
+  },
+  "e68dbbba-5d69-46e4-bb47-bccc3cfb0387": {
+    "url": "db://assets/Scenes/test_01.scene",
+    "value": {
+      "depends": [
+        "e68dbbba-5d69-46e4-bb47-bccc3cfb0387",
+        "d0c77862-3b77-458b-8d27-b90636f6cf25@f9941"
+      ],
+      "dependScripts": [
+        "50e5a32a-a781-4023-b743-2bde7c96156c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "062dc16a-828a-449c-aba2-01325296e236": {
+    "url": "db://assets/Image/background-layer01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "062dc16a-828a-449c-aba2-01325296e236@6c48a": {
+    "url": "db://assets/Image/background-layer01.png@6c48a",
+    "value": {
+      "depends": [
+        "062dc16a-828a-449c-aba2-01325296e236"
+      ]
+    },
+    "versionCode": 1
+  },
+  "062dc16a-828a-449c-aba2-01325296e236@f9941": {
+    "url": "db://assets/Image/background-layer01.png@f9941",
+    "value": {
+      "depends": [
+        "062dc16a-828a-449c-aba2-01325296e236@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e188f7ab-d92e-4290-8935-97682633dc26": {
+    "url": "db://assets/Image/background-layer02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e188f7ab-d92e-4290-8935-97682633dc26@6c48a": {
+    "url": "db://assets/Image/background-layer02.png@6c48a",
+    "value": {
+      "depends": [
+        "e188f7ab-d92e-4290-8935-97682633dc26"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e188f7ab-d92e-4290-8935-97682633dc26@f9941": {
+    "url": "db://assets/Image/background-layer02.png@f9941",
+    "value": {
+      "depends": [
+        "e188f7ab-d92e-4290-8935-97682633dc26@6c48a"
+      ]
     },
     "versionCode": 1
   }

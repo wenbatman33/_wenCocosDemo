@@ -8,11 +8,11 @@
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": "./chunks/33/33b14116158fcb1e038e9d77314001491583281e.js",
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "./chunks/96/9672576e8f949619f21c4260dfbc1483286b6784.js",
     "file:///Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/57/571e28c784e84d34bbc59c4ef618cdb62e8c2e07.js",
-    "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/AudioManager.ts": "./chunks/ce/cef0ddbe34fdc13d221c1bec5b5c824394b6026e.js",
-    "file:///Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/Scripts/test_1.ts": "./chunks/00/00820f3cd1c9d86810db79f31fc307481bf74478.js"
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/AudioManager.ts": "./chunks/99/99457c8dad052607c8270c4f65daaf9e3fa6dc74.js",
+    "file:///Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/Scripts/test_01.ts": "./chunks/b3/b33ad8f2559a584dc250dd15f3461753140c9e27.js"
   },
   "scopes": {
-    "./chunks/00/00820f3cd1c9d86810db79f31fc307481bf74478.js": {
+    "./chunks/b3/b33ad8f2559a584dc250dd15f3461753140c9e27.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -64,7 +64,7 @@
       "__unresolved_8": "cce:/internal/x/cc-fu/2d",
       "__unresolved_9": "cce:/internal/x/cc-fu/sorting"
     },
-    "./chunks/ce/cef0ddbe34fdc13d221c1bec5b5c824394b6026e.js": {
+    "./chunks/99/99457c8dad052607c8270c4f65daaf9e3fa6dc74.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/57/571e28c784e84d34bbc59c4ef618cdb62e8c2e07.js": {
@@ -102,8 +102,8 @@
       "__unresolved_3": "./chunks/33/33b14116158fcb1e038e9d77314001491583281e.js",
       "__unresolved_4": "./chunks/96/9672576e8f949619f21c4260dfbc1483286b6784.js",
       "__unresolved_5": "./chunks/57/571e28c784e84d34bbc59c4ef618cdb62e8c2e07.js",
-      "__unresolved_6": "./chunks/ce/cef0ddbe34fdc13d221c1bec5b5c824394b6026e.js",
-      "__unresolved_7": "./chunks/00/00820f3cd1c9d86810db79f31fc307481bf74478.js"
+      "__unresolved_6": "./chunks/99/99457c8dad052607c8270c4f65daaf9e3fa6dc74.js",
+      "__unresolved_7": "./chunks/b3/b33ad8f2559a584dc250dd15f3461753140c9e27.js"
     }
   }
 }

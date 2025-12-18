@@ -5,9 +5,9 @@
     "module": "ES2015",
     "strict": true,
     "types": [
+      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc",
       "./temp/declarations/jsb",
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc.env"
     ],
     "paths": {
@@ -15,7 +15,7 @@
         "/Applications/Cocos/Creator/3.8.7/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/batman_work/workspace3.0/applearning/_wenDemo/wenDemo/assets/*"
+        "/Users/batman_work/workspace3.0/applearning/_wenCocosDemo/assets/*"
       ]
     },
     "experimentalDecorators": true,
